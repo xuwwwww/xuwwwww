@@ -1,4 +1,4 @@
-Hi, i'm just another student intrested in coding. May include some others code in my project, but i'll comment
+Hi, i'm just a random student intrested in coding.
 
 
 
